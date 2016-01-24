@@ -4,7 +4,7 @@ title = "FAQ for contributors"
 description = "Overview of contributing"
 keywords = ["open, source, contributing, overview"]
 [menu.main]
-parent="mn_oss_contrib"
+parent="oss_contrib"
 weight=2
 +++
 <![end-metadata]-->

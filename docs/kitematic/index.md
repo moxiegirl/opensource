@@ -4,7 +4,7 @@ title = "Contribute to Kitematic"
 description = "Introduces Kitematic contribute topics and tour"
 keywords = ["Kitematic, open source, contribute, contributor, tour, issue, review"]
 [menu.main]
-parent="mn_oss_contrib"
+parent="oss_contrib"
 identifier="smn_kitematic_contrib"
 weight=1
 +++

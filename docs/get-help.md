@@ -4,7 +4,7 @@ title = "Where to chat or get help"
 description = "Describes Docker's communication channels"
 keywords = ["IRC, Google group, Twitter, blog,  Stackoverflow"]
 [menu.main]
-parent = "mn_oss_contrib"
+parent = "oss_contrib"
 weight=3
 +++
 <![end-metadata]-->

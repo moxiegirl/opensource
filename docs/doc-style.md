@@ -4,7 +4,7 @@ title = "Style guide for Docker documentation"
 description = "Style guide for Docker documentation describing standards and conventions for contributors"
 keywords = ["style, guide, docker,  documentation"]
 [menu.main]
-parent = "mn_oss_contrib"
+parent = "oss_contrib"
 weight=4
 +++
 <![end-metadata]-->

@@ -4,7 +4,7 @@ title = "Open Source at Docker"
 description = "Overview of contributing"
 keywords = ["open, source, contributing, overview"]
 [menu.main]
-identifier="mn_oss_contrib"
+identifier="oss_contrib"
 weight=8
 +++
 <![end-metadata]-->

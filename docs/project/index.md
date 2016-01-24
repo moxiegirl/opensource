@@ -5,7 +5,7 @@ description = "Describes Docker's communication channels"
 keywords = ["IRC, Google group, Twitter, blog,  Stackoverflow"]
 [menu.main]
 identifier = "smn_engine_contrib"
-parent="mn_oss_contrib"
+parent="oss_contrib"
 weight=-2
 +++
 <![end-metadata]-->

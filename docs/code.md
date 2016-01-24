@@ -4,7 +4,7 @@ title = "Quickstart contribution"
 description = "Contribute code"
 keywords = ["governance, board, members, profiles"]
 [menu.main]
-parent="mn_oss_contrib"
+parent="oss_contrib"
 weight=-3
 +++
 <![end-metadata]-->
